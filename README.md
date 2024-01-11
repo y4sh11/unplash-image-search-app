@@ -1,1 +1,4 @@
-# unplash-image-search-app
+# Steps To Run Image Search App
+
+npm install
+npm start
